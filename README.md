@@ -9,3 +9,4 @@ Currently, two official plugins are available:
 # Currency_converter
 # Currency_converter
 # currency-converter
+# currency
